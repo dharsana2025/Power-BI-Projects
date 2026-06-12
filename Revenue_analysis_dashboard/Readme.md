@@ -1,4 +1,4 @@
-#Key Insights:
+# Key Insights:
 - Colors category generated highest revenue
 - Female customers contributed higher sales
 - Anniversary and Raksha Bandhan showed strong performance
